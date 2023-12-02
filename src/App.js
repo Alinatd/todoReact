@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <div className="App">Master</div>
+    <div className="App">DEVELOP</div>
   );
 }
 
